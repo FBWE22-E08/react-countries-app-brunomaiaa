@@ -21,3 +21,13 @@ text-align: center;
 .active{
   color: red;
 }
+
+.by-name-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav-country {
+  text-decoration: none;
+  color: black;
+}
